@@ -1,5 +1,5 @@
 # Python-Game-Alien-Invasion
-A game developed mostly of the module "Pygame
+A game developed mostly of the module "Pygame"
 
 To deepen my learning of the basic grammar of Python. 
 
